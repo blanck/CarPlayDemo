@@ -50,6 +50,7 @@ npm install
 * 🔧 `dev` - run development server
 * 🔧 `build` - build web app for production
 * 📱 `build-cordova` - build cordova app
+* 📱 `ios` - build and run app in iOS simulator
 
 ## Vite
 
