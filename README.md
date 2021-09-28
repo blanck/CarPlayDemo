@@ -6,7 +6,6 @@ Framework7 app created with following options:
 
 ```
 {
-  "cwd": "/Users/jonasblanck/Development",
   "type": [
     "cordova"
   ],
