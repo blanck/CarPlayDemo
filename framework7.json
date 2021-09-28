@@ -1,0 +1,31 @@
+{
+  "cwd": "/Users/jonasblanck/Development/CarPlayDemo",
+  "type": [
+    "cordova"
+  ],
+  "name": "CarPlayDemo",
+  "pkg": "hk.blanck.carplaydemo",
+  "framework": "vue",
+  "template": "blank",
+  "cssPreProcessor": false,
+  "bundler": "vite",
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "ios"
+    ],
+    "plugins": [
+      "cordova-plugin-statusbar",
+      "cordova-plugin-keyboard",
+      "cordova-plugin-splashscreen"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": false,
+    "fillBars": false
+  },
+  "customBuild": false
+}
